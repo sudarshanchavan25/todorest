@@ -70,9 +70,8 @@ public class Todo {
 		this.done = done;
 	}
 	
-	public Todo() {
-		// TODO Auto-generated constructor stub
-	}
+// 	public Todo() {
+// 	}
 
 	public Todo(int id, String user, String des, Date targetDate, boolean done) {
 		super();
